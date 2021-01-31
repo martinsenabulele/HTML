@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+h2 {
+    color: red;
+}
+
+p {
+    font-family: Helvetica, sans-serif;
+}
+
+h2 {
+    font-family: 'lobster', sans-serif;
+}
+
+.larger-image {
+    width: 500px;
+}
+
+.thick-green-border {
+    border-color: green;
+    border-width: 50px;
+    border-style: solid;
+    border-radius: 50%;
+}
+
+.silver-background {
+    background-color: silver;
+    padding: 50px;
+    text-align: justify;
+}
+
+#cat-photo-form {
+    background-color: aqua;
+    padding: 50px;
+    text-align: justify;
+}
+
+.background {
+    background-color: yellowgreen;
+    padding: 10px
+}
+
+.injected-text {
+    margin-bottom: 25px;
+    text-align: center;
+    color: black
+}
+
+[typy='checkbox'] {
+    margin: 20px 0px 20px 0px;
+}
+
+body {
+    background-color: brown;
+}

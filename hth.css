@@ -1,0 +1,43 @@
+.injected-text {
+    margin-bottom: -25px;
+    text-align: center;
+}
+
+.landing-page {
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    text-align: center;
+}
+
+body {
+    background-color: silver;
+    padding: 150px 100px 200px 100px;
+    background-image: url("https://uni-hair.com/wp-content/uploads/2014/07/about-us.jpg");
+}
+
+.ig {
+    background-color: crimson;
+    color: #fff;
+}
+
+.contact-us {
+    background-color: blue;
+    color: #fff;
+    padding-top: 40px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    text-align: justify;
+    /* you can also use clockwise direction to specify padding and margin ie padding: 40px(top) 20px(right) 40px(bottom) 20px(left)*/
+}
+
+.products-page {
+    background-color: blue;
+    color: #fff;
+    text-align: center;
+}
